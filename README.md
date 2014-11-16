@@ -15,3 +15,7 @@ depth of waters before diving. Through this website, the students will be able
 to judge the level of their technical proficiency as per the industry standards
 and brush up their skills accordingly. In this way, the project serves a two-
 way purpose for both the students and the recruiters.
+
+
+For more information, visit 
+[Resume-Ranker Wiki](https://github.com/calmhandtitan/Resume-Ranker/wiki)
